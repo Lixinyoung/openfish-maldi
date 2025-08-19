@@ -1,0 +1,16 @@
+sopa
+spatialdata
+spatialdata-plot
+
+basicpy
+opencv-python
+SimpleITK-SimpleElastix
+
+stardist
+cellpose
+m2stitch
+
+baysor
+Fiji:RS-FISH
+
+pyro
