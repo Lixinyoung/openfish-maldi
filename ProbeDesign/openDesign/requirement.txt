@@ -1,0 +1,10 @@
+pysam
+biopython
+tqdm
+numpy
+pandas
+pyfaidx
+nupack
+
+blastn
+
